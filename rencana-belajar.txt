@@ -2,8 +2,9 @@ RENCANA PEMBELAJARAN
 - Menguasai Javascript
   - Menguasai JS Dasar
   - Menguasai JS DOM
-  - Belajar Framework Javascript
-- Menguasai Object Oriented Programming 
+  - Belajar Frame Javascript
+    - Angular
+    - React 
 - Menguasai PHP
 - Menguasai PHP Frameworks
   - Laravel
