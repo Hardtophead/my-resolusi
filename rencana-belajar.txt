@@ -2,6 +2,7 @@ RENCANA PEMBELAJARAN
 - Menguasai Javascript
   - Menguasai JS Dasar
   - Menguasai JS DOM
+- Menguasai Object Oriented Programming 
 - Menguasai PHP
 - Menguasai PHP Frameworks
 - Menguasai Database
