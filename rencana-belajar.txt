@@ -1,0 +1,5 @@
+RENCANA PEMBELAJARAN
+- Menguasai Javascript 
+- Menguasai PHP
+- Menguasai PHP Frameworks
+- Menguasai Database
