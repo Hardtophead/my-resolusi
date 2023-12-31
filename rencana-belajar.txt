@@ -9,3 +9,5 @@ RENCANA PEMBELAJARAN
   - Laravel
 - Menguasai Database
 - Menguasai Framework CSS
+  - Boostrap
+  - Tailwind
